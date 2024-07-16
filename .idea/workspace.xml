@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a891c6cd-c4b0-4c1d-a37b-46fcfdb56633" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/flipkart/app/app.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/flipkart/bean/bean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/flipkart/business/business.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/flipkart/constants/constant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/flipkart/dao/dao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/flipkart/exception/exception.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/flipkart/helper/helper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/flipkart/utils/utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/flipkart/validator/validate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/flipkart/app/app.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/flipkart/app/app.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,9 +22,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2jK7vyjaCUVH4YkOoxPXJ9xxVcK" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -41,9 +33,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.app.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/shabnam.perween/Documents/FlipFit-JEDI-Repo"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
