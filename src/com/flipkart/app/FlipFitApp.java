@@ -24,7 +24,7 @@ public class FlipFitApp {
 		int menuOption = 1;
 		do {
 			System.out.println(
-					"\n\n\033[1m***************** Welcome to FlipFit Gym Slot Booking Application *****************\033[0m");
+					"\n\n\033[1m***************** Welcome to FlipFit Application *****************\033[0m");
 			System.out.println("Menu Options: \nPress 1. Login \nPress 2. Register \nPress 3. Update Password \nPress 4. Exit");
 			try {
 				menuOption = in.nextInt();
