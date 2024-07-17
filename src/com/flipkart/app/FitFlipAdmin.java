@@ -1,10 +1,6 @@
-/**
- * 
- */
 package com.flipkart.application;
 
 import java.util.*;
-
 import com.flipkart.bean.Gym;
 import com.flipkart.bean.GymOwner;
 import com.flipkart.bean.Notification;
@@ -15,9 +11,7 @@ import com.flipkart.business.NotificationServiceInterface;
 import com.flipkart.business.NotificationServiceOperation;
 import com.flipkart.constants.Constants;
 
-/**
- * @author rohit.r10
- */
+
 public class FitFlipAdmin {
 
 	AdminServiceInterface adminService = AdminServiceOperation.getInstance();
