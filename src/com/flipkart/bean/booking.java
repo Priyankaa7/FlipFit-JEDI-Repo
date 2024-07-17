@@ -4,6 +4,7 @@ public class booking {
 	private int bookingID;
 	private int customerID;
 	private int slotID;
+	
 	public int getBookingID() {
 		return bookingID;
 	}
