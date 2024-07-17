@@ -18,7 +18,7 @@ import com.flipkart.constants.Constants;
 /**
  * @author rohit.r10
  */
-public class GymFlipFitAdminMenu {
+public class FitFlipAdmin {
 
 	AdminServiceInterface adminService = AdminServiceOperation.getInstance();
 	NotificationServiceInterface notificationService = NotificationServiceOperation.getInstance();
